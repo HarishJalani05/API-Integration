@@ -19,3 +19,6 @@ The project titled "Weather Data Webpage using Public API" involved developing a
 This project was developed using the Visual Studio Code (VS Code) editor and ran in a local browser environment for testing and debugging. JavaScript was used to make asynchronous API calls to the OpenWeather server, retrieve JSON responses, and dynamically update the webpage content. CSS was used to style the interface, ensuring it was both attractive and readable on different screen sizes.
 
 In the real world, this project has several practical applications. It can serve as a helpful utility for individuals wanting quick weather updates or as a base template for mobile apps and smart home integrations. Additionally, it introduces beginners to the concept of API usage and dynamic content rendering, forming a strong foundation for more advanced web development projects.
+
+*OUTPUT*:
+<img width="1918" height="917" alt="Image" src="https://github.com/user-attachments/assets/c219648d-0e0a-4ddc-a7e5-58df692df8f3" />
